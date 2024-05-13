@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "grull-works-assignment",
+  "private_key_id": "0be3d1be47d0c5c074140b4961e500a4c3ce2017",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDfDQSfzmrWnRsu\n+Brj3joU7WHJbyPVlWbQO2z780CUCSbV4FIFEljMd9PHzJ9HGWZ4aHMzM8f3teLf\nhRiQX+vuMTRz3w1ASziQxpCIxWviYjYK9noALB8GZsraGIT3x4wGpaHyo1UoOczh\nEscj8EYar3WNb16VSqh7zjt8WiEPXttz3WURmJOTITyrw6DvpOtW5kjahrQnnJsM\nP7tC6yAS0tMOYRCasFIqjRFW9oUJmQRhHG5NyvxLA2y4jinXeUM/Ed4/sS8Ocm6o\nb0vKubsphdARPrx0c6B1592tWIwpfGN5GcCnHvGNgpUI5vj5GqGZzFfVmgXsTIWJ\nYxyK/68RAgMBAAECggEABEyZiWsB7CxDDEWD+MU2+vt7jKJm+NFUYspPPQ8to3mg\nFTQQE9qMRtFyDfVuH7S01B7o3+4tLVa4J/UsyaIC4VumPMWD2XiZsoPhRugA2Fad\n30A49Pl+Vf7aBUu+5F4lEmVTspWRwqC6lJ83PDey+9JKwo5VYfmtna7jJQmnsXm2\n9UaPM4nnc1ylElQBTtx5kHWGkt7E2txmSlv/V6e57F7df8chO0e4ABFkvKVHIQ1o\nYS0wTwAZFzrtIAWt6rFsy0aNE8MwgwcVt+AqLSo27u7MWjvgWYx6vkyjwkmVFzv4\n8ttuhjeTtyrMt19Lv3cwYtvJx8xPU8XUxSHAYb2gMQKBgQD9YjrfSmEkUhN18szt\njSZNJL/UrZRknPHvUuVCsdVaH06iJ+ahRItSV/5rYaFiMg7CUAYTgzlSuMyWwozL\nS7fuyIEbaKXXP1mqAYRRhBiKdSxNZR5QH0rwYky1xB7Ppag8Cn4ZlUHYlRAZgkyP\nRB2woX4fbSmY+hS6/ADycw3sGwKBgQDhWpvw2AQVLb3CZB1cY8EqklB6lJkyMMF1\nqaZTgoUo1GPfdnuHAVI3ecC+rMb+3RsShqLxXqvonOlEQkkfkJceVSNA1Lhwps8C\ny6nfat3346oSG8lSwHtQWCYrNXpjqlyg8OG8dfUGawxdlA6swTNyQeBUijl6tdVu\ngvuOETbsQwKBgAnSAM4ep90sgSyVGHQsgEuFHRo1EAdGPeo0oEYRdl9jzzxhp4Kg\nkXXDi0zGH+caYZAOYe3nrBUUrHk7WRGYAazzgG17hNHu1p7MKECwifLzz5/AR4h7\nbgAbDzYMP9V0aizJi1Gag07NmC4k6qqyzSPHXogBRxdyudL1aWP8KZH5AoGAG9JO\n7EYPAvpZshUgFtbt8y6LJwcPfsXMLJWcRjUX8Xl/NwhuqbU9DEJIzIGSM8biX8Al\nf70bZiVxGw8/7diw/3qtVoSsnKPLbOHt//o2mzMNPR0XFtNSphGr7Ku2h3Vx6CC1\nDcpWTMuMhEUSJrvXeSSu6GEERaULS5B6NAjmCfcCgYAzlNsP0NNX5OH7gP3jgT7K\nxxv8qXFAUgtq3PYYxY/OIwPTF5n8Q2b6U22xYRJYnL6lUtAyPZ5OztuwQ9O0Fxk8\nUGVp8jpBpwjAsCwNOtaSQokYouE9ZhtKIiUysV9a377vAnmLtNMIQD0duJeCU5qg\nPNGrvc5mkUcNCcKTmlJVig==\n-----END PRIVATE KEY-----\n",
+  "client_email": "grullworksassignment@grull-works-assignment.iam.gserviceaccount.com",
+  "client_id": "116251447996963449515",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/grullworksassignment%40grull-works-assignment.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
